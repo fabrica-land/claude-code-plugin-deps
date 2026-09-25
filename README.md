@@ -113,3 +113,7 @@ Running `/deps:resolve` after installing `agency` will detect that `el` is missi
 
 - [claude-code-event-listeners](https://github.com/mividtim/claude-code-event-listeners) — Background event listeners for Claude Code
 - [claude-code-agency](https://github.com/mividtim/claude-code-agency) — Persistent agent patterns for Claude Code
+
+## License
+
+MIT © Fabrica, Inc. — see [LICENSE](LICENSE). Created and maintained by Tim Garthwaite.
