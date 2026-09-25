@@ -12,7 +12,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-plugin-deps.git"
+        "url": "https://github.com/fabrica-land/claude-code-plugin-deps.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-plugin-deps"
     }
